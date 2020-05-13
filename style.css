@@ -30,3 +30,15 @@ img#offset{
 	padding: 30px;
 
 }
+
+@media(max-width: 650px){
+	button{
+		color: red;
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		
+	}
+
+}
